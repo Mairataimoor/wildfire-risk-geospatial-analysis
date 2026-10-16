@@ -1,0 +1,8 @@
+*.xlsx
+*.csv
+cb_2020_us_tract_500k.zip
+mtbs_perimeter_data.zip
+*.part
+.ipynb_checkpoints/
+__pycache__/
+.env
